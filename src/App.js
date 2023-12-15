@@ -1,6 +1,7 @@
 import './App.css';
 import { Todo } from './components/Todo';
 
+// Gautham added your sample test here
 function App() {
   const todo=[
     {id:1,title:"design",status:true},
@@ -19,5 +20,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
