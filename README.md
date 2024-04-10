@@ -1,8 +1,6 @@
 #codecov
 
-<a href="https://codecov.io/gh/ganantharaj/todo-react-app" > 
- <img src="https://codecov.io/gh/ganantharaj/todo-react-app/graph/badge.svg?token=rGfKbYQhrE"/> 
- </a>
+[![codecov](https://codecov.io/gh/ganantharaj/todo-react-app/graph/badge.svg?token=rGfKbYQhrE)](https://codecov.io/gh/ganantharaj/todo-react-app)
 
 # Getting Started with Create React App
 
