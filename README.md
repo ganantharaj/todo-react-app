@@ -1,3 +1,9 @@
+#codecov
+
+<a href="https://codecov.io/gh/ganantharaj/todo-react-app" > 
+ <img src="https://codecov.io/gh/ganantharaj/todo-react-app/graph/badge.svg?token=rGfKbYQhrE"/> 
+ </a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
