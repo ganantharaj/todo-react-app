@@ -1,3 +1,7 @@
+#codecov
+
+[![codecov](https://codecov.io/gh/ganantharaj/todo-react-app/graph/badge.svg?token=rGfKbYQhrE)](https://codecov.io/gh/ganantharaj/todo-react-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
